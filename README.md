@@ -328,7 +328,7 @@ A curated list of awesome game decompilations
 - [Metroid Fusion](https://github.com/metroidret/mf)
 - [Metroid Prime](https://github.com/primedecomp/prime)
 - [Metroid Prime 2](https://github.com/primedecomp/echoes)
-- [Minecraft: Legacy Console Edition](https://github.com/LCERD/Minecraft-Xbox-360-Decompilation)
+- [Minecraft: Xbox 360 Edition](https://github.com/LCERD/Minecraft-Xbox-360-Decompilation)
 - [Minecraft: Nintendo Switch Edition](https://github.com/GRAnimated/MinecraftLCE)
 - [Minecraft: Pocket Edition](https://github.com/BrentDaMage/mcpe-engine)
 - [Mixels Rush](https://github.com/Nugetinc/MixelsRushDecompilation)
